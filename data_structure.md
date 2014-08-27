@@ -23,4 +23,5 @@ Next I'll talk about how I, personally, got over my terror of trying to write/de
 
 Finally: my big realization. After doing a whole laundry list of algorithms -- the Fibonacci sequence, Pascal's Triangle, a whole mess of sorts, and implementing some data structures (which can be tricky in Ruby), I got to the point where I realized that it was fun. And that's the biggest thing -- getting to the point where realizing that this stuff is just programming in really specific, beautiful ways.
 
-Has learning this stuff changed my programming abilities in any real way? 
+The Pitch:
+As someone who has started seriously coding late in life, and through non-traditional avenues, it's easy for me to feel like an anomaloy, an outsider. But I think my story is fairly common, and that many of us have been hindered by mental blocks around problems that feel more theoretical than practical. And this is a problem that is not easy to overcome, even with the help of a mentor; it's easy to feel dumb, or out of place not knowing this stuff. As an ordinary (but motivated) Ruby learner, who has been doing this stuff for less than a year at this point (RubyConf will be just past my official anniversary of being a developer!), I think I can better demystify these topics than someone who has been programming for most of his or her life.
